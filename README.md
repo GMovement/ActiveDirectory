@@ -2,6 +2,8 @@
 Log of setting up Active Directory
 This is useful for experimenting with active directory set up and how to manage group policy and different OUs
 
+This is a test change I'm making at 7:27pm, 9/13/2026. I will be committing this change and pushing it to Github now.
+
 Part One:
 Getting the Tools
 
